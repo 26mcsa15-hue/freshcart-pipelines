@@ -1,6 +1,5 @@
 pandas
 scikit-learn
 joblib
-mage-ai
 pytest
 pika
