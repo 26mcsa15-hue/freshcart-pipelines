@@ -1,0 +1,8 @@
+.env
+*.pkl
+*.csv
+mage.log
+tunnel.log
+__pycache__/
+mage_data/
+.logs/
